@@ -61,7 +61,7 @@ Before you begin, ensure you have met the following requirements:
 
 
 ## Project Structure
-
+```
 /DigitalClock
 │
 ├── /public
@@ -77,6 +77,7 @@ Before you begin, ensure you have met the following requirements:
 │
 ├── package.json             # Project dependencies and scripts
 └── README.md                # This file
+```
 
 ## Built With
 
