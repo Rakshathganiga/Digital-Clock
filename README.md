@@ -24,7 +24,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/Rakshathganiga/DigitalClock.git
+    git clone https://github.com/Rakshathganiga/Digital-Clock.git
     ```
 
 2. Navigate to the project directory:
